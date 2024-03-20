@@ -40,7 +40,7 @@ const ResizableComp = () => {
         </div>
         <Splitter isDragging={isFileDragging} {...fileDragBarProps} />
         <div className={"flex grow"}>
-          <div className={"grow bg-darker contents"}>Editor</div>
+          <div className={"grow bg-darker contents"}>Comp 2</div>
 
         </div>
       </div>
